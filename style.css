@@ -1,0 +1,7 @@
+.pull-quote {
+   width: 200px;
+   float: right;
+   margin: 5px;
+   font-family: Georgia, "Times New Roman", Times, serif;
+   font: italic bold #ff0000 ;
+}
