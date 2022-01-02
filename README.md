@@ -1,2 +1,2 @@
 # rs_school
-https://rezniki.github.io/rs_school-cv/cv
+https://rezniki.github.io/rsschool-cv/cv
